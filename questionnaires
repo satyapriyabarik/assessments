@@ -1,0 +1,358 @@
+"publish":{
+[
+    {
+      "que":"What is the default value to restrict property in directive definition?",
+      "options":["E","C","M","A"],
+      "ans":"A"
+    },
+     {
+      "que":"How many components does localeIDs consists of ?",
+      "options":["1","2","3","0"],
+      "ans":"2"
+    },
+     {
+      "que":"Which of the following creates a configurable service in Angular Js>",
+      "options":["service","factory","provider","value"],
+      "ans":"provider"
+    },
+     {
+      "que":"Which of the following is not a core Angular Js directive?",
+      "options":["ng-model","ng-app","ng-state","ng-bind"],
+      "ans":"ng-state"
+    },{
+      "que":"Which is the following is used to sync a data bounded DOM element to model in AngularJs?", 
+      "options":["ng-model","ng-data","ng-bound","ng-bind"],
+      "ans":""
+    },
+    {
+      "que":"Which of the following is true about Angular js expressions?",
+      "options":["used to bind application data to html","behaves in same way as ng-bind directives","Written inside double braces like {{expression}}","none"],
+      "ans":""
+    },
+    {
+      "que":"Which component can be injected as a dependancy in Angular Js?",
+      "options":["service","factory","value","all"],
+      "ans":""
+    },
+    {
+      "que":"Which configuration file is used for scenario test in Yeoman?",
+      "options":["karma.conf.js"," karma.e2e.js","karma.e2e.conf.js","none"],
+      "ans":"karma.e2e.conf.js"
+    },
+    {
+      "que":"Which of the following is true about currency filter?",
+      "options":["It formats number in a currency format","It is a function which takes text as input","none"],
+      "ans":"It formats number in a currency format"
+    },
+    {
+      "que":"Which tag is used to define the templates in Angular Js?",
+      "options":["html","head","body","script"],
+      "ans":""
+    },
+    {
+      "que":"Which Angular Js attribute will copy the DOM?",
+      "options":["ng-again","ng-repeat","ng-copy","ng-transfer"],
+      "ans":"ng-copy"
+    },
+    {
+      "que":"What is the unit of time used in timeout configuration parameter of config object in Angular Js?",
+      "options":["millisecond","seconds","microsecond","none"],
+      "ans":"millisecond"
+    },
+    {
+      "que":"Which character is used to chain filters?",
+      "options":["|","||","&","&&"],
+      "ans":"|"
+    },
+    {
+      "que":"What value is assigned to restrict property in directive definition, for being specific to comment?",
+      "options":["A","C","M","E"],
+      "ans":"M"
+    },
+    {
+      "que":"What is the default value for priority property in directive definition?",
+      "options":["0.0","Depends upon application","1.0","none"],
+      "ans":"0.0"
+    },
+    {
+      "que":"How many arguments does 'then' function takes?",
+      "options":["2","3","1","True"],
+      "ans":""
+    },
+    {
+      "que":"Which directive definition option , is used to replace the current element, if true: refresh, change, replace, alter",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"Which directive definition option, is used to set the order of execution in the template relative to other directives?",
+      "options":["sequence","priority","count","rowID"],
+      "ans":""
+    },
+    {
+      "que":"What is the default port no for the Karma server?",
+      "options":["9886","8080","8088","9876"],
+      "ans":""
+    },
+    {
+      "que":"Which congig parameter of config object in Angular Js specify the HTTP request type?",
+      "options":["method","request","http-method","http-request"],
+      "ans":""
+    },
+    {
+      "que":"What is the second agrunent of $watch()?",
+      "options":["watchExpression","Directive","Listener","Filter"],
+      "ans":""
+    },
+    {
+      "que":"What symbol is used for bundled services in angular?",
+      "options":["_","'","$","doublequote"],
+      "ans":""
+    },
+    {
+      "que":"Which one in not a filter in angular JS?",
+      "options":["number","currency","date","none"],
+      "ans":""
+    },
+    {
+      "que":"What is needed for Karma for unit testing?",
+      "options":["Backbone JS","Nodejs","EmberJs","ReactJs"],
+      "ans":""
+    },
+    {
+      "que":"Which binding strategy symbol in isolated scope, means passing this attribute as an string?",
+      "options":["@","=","&","|"],
+      "ans":""
+    },
+    {
+      "que":"Whaich is view component in Angular js: DOM, Object property, Javascript classes, Depends upon the implementation",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"Which style of writing tests supported by Angular js by default?",
+      "options":["YUI","Jusmine","gUnit","None"],
+      "ans":""
+    },
+    {
+      "que":"What is the default scope type in Angular JS? ,  , existing scope, none",
+      "options":["new Scope","isolated scope","existing scope", "none"],
+      "ans":""
+    },
+    {
+      "que":"Which of the following directive is used to display text: ng-bind, ng-data, ng-list, ng-display",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"Which of the Angular service is used to interact with browser's location?",
+      "options":["$coodrinate"," $address","$place","none"],
+      "ans":""
+    },
+    {
+      "que":"Which is used to sync a data bounded DOM element to model in Angular JS?",
+      "options":["ng-bind","ng-model","ng-bound","ng-data"],
+      "ans":""
+    },
+    {
+      "que":"which directive definition option is used to require other directive to be present for proper functioning? , , , ",
+      "options":["essential","crucial","need","require"],
+      "ans":""
+    },
+    {
+      "que":"How angular.module works?",
+      "options":["to create application module","it ctreates modules along with dependency module"],
+      "ans":""
+    },
+    {
+      "que":"How many equivalent forms of displaying text are present in angular js?",
+      "options":["3","4","4","multiple"],
+      "ans":""
+    },
+    {
+      "que":"How many optional arguments are taken by $resource function?",
+      "options":["1","2","3","TRUE"],
+      "ans":""
+    },
+    {
+      "que":"Which of the following is not a core Angular js directive?",
+      "options":["ng-state","ng-model","ng-app"],
+      "ans":""
+    },
+    {
+      "que":"Which is the type of method call in real time is XHR?",
+      "options":["asynchronous","None","synchronous"],
+      "ans":""
+    },
+    {
+      "que":"Which code is optional during specification for $locale in angularJS?",
+      "options":["currency code","language code","country code","date code"],
+      "ans":""
+    },
+    {
+      "que":"How many equivalent forms of displayng text are present in Angular JS: 3, 2, 4, 5",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"Which caracter is used for data binding in angular js?",
+      "options":["{"," /","[","("],
+      "ans":""
+    },
+    {
+      "que":"Which can remove the directives and DOM elements during the processing of an directive in Angular JS?",
+      "options":["compile function","pre-link function","post-link functions","none"],
+      "ans":""
+    },
+    {
+      "que":"Which is true about provider?",
+      "options":["special factory method","used during config phase","used internally to reate services","factory etc","all"],
+      "ans":""
+    },
+    {
+      "que":"Which configuration object is used to cutomize headers for outgoing requests?",
+      "options":["$httpProvider.defaults","$http.defaults.header","$httpProvider.header"],
+      "ans":"$http.defaults.header"
+    },
+    {
+      "que":"Which of the filter in Angular JS supports L10n?",
+      "options":["Currency","Date","Time","All"],
+      "ans":"All"
+    },
+    {
+      "que":"What is used to read or write a cookie by Angular Js?",
+      "options":["$cookies","$cookieStore","both","none"],
+      "ans":"$cookies"
+    },
+    {
+      "que":"Which feature of Angular Js does the law of demeter is applicable to?",
+      "options":["Data binding","DI","Directive","none"],
+      "ans":"DI"
+    },
+    {
+      "que":"Which type of scope inherits ng model property from it?",
+      "options":["new scope,","none","isolated","existing"],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    },
+    {
+      "que":"",
+      "options":["","","",""],
+      "ans":""
+    }
+  ]
+}
